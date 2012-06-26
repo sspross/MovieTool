@@ -1,0 +1,6 @@
+body  { font-size: 12px; font-family: verdana }
+td { font-size: 12px; font-family: verdana }
+a { color: blue; text-decoration: none }
+a:hover { color: red; text-decoration: none }
+table { background-color: white; padding: 5px }
+.bg { background-color: #e4e4e4; }
